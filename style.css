@@ -1,11 +1,21 @@
 body{
     background-color: black;
     color: white;
+    font-size: x-large;
 }
+
 img{ 
-    width: 400px;
-    height: 300px;
+    width: 1500px;
+    height: 200px;
 }
 h1,h2{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+footer{
+    background-color: greenyellow ;
+    color: black;
     text-align: center;
 }
